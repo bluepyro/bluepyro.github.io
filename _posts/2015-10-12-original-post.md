@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: deafault
 title: Creativity
 ---
 
