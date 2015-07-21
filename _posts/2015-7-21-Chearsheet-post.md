@@ -7,7 +7,8 @@ title: Markdown Cheatsheet
 ## just a regular post
 ### Nothing really important about it
 
-*And it has a list
+* And it has a list.
+
 1. With a element
  * with
  * other
