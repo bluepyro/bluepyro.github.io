@@ -1,11 +1,10 @@
 ---
 layout : post
-Title : Web Design
+Title : Layout on Web
 ---
 
-# Layout on web
+#Layout on web
 
 Something something
-
 Information goes here
 
