@@ -2,6 +2,7 @@
 ---
 
 layout : post
+
 Title : Restaurant Post
 
 ---
