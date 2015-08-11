@@ -3,7 +3,10 @@ layout : post
 Title : New Restaurant!
 ---
 
+New Restaurant
+===
 You ask for it so we deliver!
+---
 
 !["Arancini"](http://www.alwaysfresh.com.au/system/recipe/image/0000/0011/large/MOUTH-WATERING-ARANCINI-BALLS-_2_.jpg)
 
