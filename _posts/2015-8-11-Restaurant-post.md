@@ -1,10 +1,8 @@
 
 ---
-
 layout : post
 
 Title : Restaurant Post
-
 ---
 
 You ask for it so we deliver!
