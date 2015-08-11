@@ -1,5 +1,6 @@
 ---
-title:layout
+layout:post
+title:Responsive
 ---
 
 Responsive design
