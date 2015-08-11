@@ -10,7 +10,8 @@ There has been quite a many years since the cellphones started supporting intern
 
 That's why it is important to have websites that look good on both devices, that where the responsive design comes in.
 
-<b>Responsive design works in any screen.</b> And the best of all is that it also feels right. It helps your clients get what they came for and find it fast and easier. One of the best things about responsive web design is that you only have to do it once.
+<b>Responsive design works in any screen.</b> 
+The best of all is that it also feels right. It helps your clients get what they came for and find it fast and easier. One of the best things about responsive web design is that you only have to do it once.
 
 Some people prefer to do 2 versions of the same website. A mobile one and a desktop one, but that would be doing the same twice, and besides there are many devices on the market with different screens. using that method would leave some of them behind or unable to use that site correctly.
 
