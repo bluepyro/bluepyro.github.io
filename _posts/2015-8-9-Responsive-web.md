@@ -4,6 +4,7 @@ Title : Responsive
 ---
 
 Web for Everyone
+---
 
 There has been quite a many years since the cellphones started supporting internet connection. After that we went to looking at websites from a personal computer or desktop to a pocket device as it is a cellphone. In fact, nowadays people are  accessing to online pages by their cellphones more than they are by a computer or even laptops.
 
