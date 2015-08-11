@@ -1,8 +1,6 @@
-
 ---
 layout : post
-
-Title : Restaurant Post
+Title : Layout on Web
 ---
 
 You ask for it so we deliver!
