@@ -3,9 +3,7 @@ layout : post
 Title : Kitchen Art!
 ---
 
-Kitchen art
-===
-Kitchen art: 3 website to learn how to make good dishes
+3 website to learn how to make good dishes
 ---
 
 Cooking is a pleasure but sometimes is quite difficult to do so, that is why the best thing to do is looking for help. In this article we will show you 5 websites or blogs that shows you how to make some popular dishes for you and your family or even a friend gathering if you feel like. Not everyone is a cook but that does not mean you cannot learn!
