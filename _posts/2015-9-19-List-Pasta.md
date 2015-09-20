@@ -10,19 +10,19 @@ There are more than 350 types of pastas that varies from shape to size. There ca
 I will be listing down below 3 type of pasta and of course I will be using their Italian names.
 Before starting I want to tell you that since you probably already know spaghetti, macaroni and lasagna I will be ignoring those. Now let’s start at once!
 
-	<b>Fusilli</b>
+<b>Fusilli</b>
 	
 Fusilli are long, thick, corkscrew shaped pasta. The word "fusilli" means "twists" in Italian. Fusilli is traditionally served with thicker sauces. The word fusilli is sometimes incorrectly used to describe another twisted pasta called rotini.
 
 !["Fusilli"](http://www.howdoyousaythatword.com/wp-content/uploads/2012/01/fusilli.jpg)
 
-	<b>Farfalle</b>
+<b>Farfalle</b>
   
 Farfalle is butterflies in Italian, called that way because as you can see it has a shape that resembles a butterfly.  This pasta is also known as a “bow-tie past” 
 
 !["Farfalle"](http://cdn.gingerandtomato.com/wp-content/uploads/2014/04/farfalle.jpg)
 
-	<b>Rigatoni</b>
+<b>Rigatoni</b>
 	
 This pasta is one of the most popular from the tube shape group. Their lengths and diameter varies. Different from the macaroni they are not as small or as elbow curved.
 
