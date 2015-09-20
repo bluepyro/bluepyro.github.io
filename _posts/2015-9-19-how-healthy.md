@@ -6,6 +6,8 @@ Title : How to!
 How to keep your heart healthy?
 ---
 
+!["happy fishs"](https://c1.staticflickr.com/1/80/241599310_48f3f4c0bc.jpg)
+
 Statistics from the Center of disease control show that in 2008, over 616,000 people died of heart disease causing almost 25% of the total deaths in that year. Also every year about 785,000 Americans have a first coronary attack. Another 470,000 who have already had one or more coronary attacks have another attack. As you can see this is a real problem, one that we should be aware of; but there are some tips to help you keeping yourself healthy and strong. 
 
 In this article we are going to address a few methods or tips so you can avoid having a heart disease.
