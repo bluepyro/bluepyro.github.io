@@ -16,7 +16,7 @@ Fusilli are long, thick, corkscrew shaped pasta. The word "fusilli" means "twist
 
 !["Fusilli"](http://www.howdoyousaythatword.com/wp-content/uploads/2012/01/fusilli.jpg)
 
-  <b>Farfalle</b>
+	<b>Farfalle</b>
   
 Farfalle is butterflies in Italian, called that way because as you can see it has a shape that resembles a butterfly.  This pasta is also known as a “bow-tie past” 
 
