@@ -1,6 +1,6 @@
 ---
 layout : post
-Title : Graphics!
+Title : Graphics
 ---
 
 Restaurant graphics
